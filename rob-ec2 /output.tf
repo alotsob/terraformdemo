@@ -1,3 +1,3 @@
 output "myec2demo" {
-  value =  "instance_privateip"
+  value =  "instance_privateip.id"
 }
